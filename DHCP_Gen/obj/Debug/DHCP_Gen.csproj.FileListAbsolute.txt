@@ -1,0 +1,9 @@
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.csprojResolveAssemblyReference.cache
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.Form1.resources
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.Properties.Resources.resources
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.csproj.GenerateResource.Cache
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\bin\Debug\DHCP_Gen.exe.config
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\bin\Debug\DHCP_Gen.exe
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\bin\Debug\DHCP_Gen.pdb
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.exe
+D:\xb013\Source\Repos\DHCP_Gen\DHCP_Gen\DHCP_Gen\obj\Debug\DHCP_Gen.pdb
